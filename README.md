@@ -1,2 +1,2 @@
 # react-saml
-Integerate React app with Okta  using SAML 
+Integrate React app with Okta  using SAML 
